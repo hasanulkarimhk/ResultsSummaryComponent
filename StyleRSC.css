@@ -1,0 +1,139 @@
+body{
+    font-family: Hanken Grotesk;
+}
+
+#leftDiv{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: linear-gradient(to bottom, rgb(96, 111, 245), #242ACF);
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+#rightDiv{
+    background-color: white;
+    
+}
+#wholeDiv{
+    background-color: white;
+    width: 1440px;
+}
+
+#yourResult{
+    padding: 2rem;
+    color: rgba(255, 255, 255, 0.745);
+}
+#circleDiv{
+    padding: 30px;
+    justify-content: center;
+    width: 30%;
+    text-align: center;
+    align-self: center;
+    background-color: hsl(234, 85%, 45%);
+    border-radius: 50%;
+    position: relative;
+    right: -31%;
+}
+#of100{
+    color: rgba(218, 218, 218, 0.911);
+    margin: none;
+    position: relative;
+    top: -65px;
+}
+
+#mark76{
+
+color: white;
+font-size: 4rem;
+}
+#lastPara{
+    color:  rgba(218, 218, 218, 0.911);
+}
+#greatt{
+    margin-top: 3rem;
+    color: white;
+}
+#summ{
+    color: hsl(224, 30%, 27%);
+    position: relative;
+    top: -35px;
+    right: -17px;
+    
+}
+#reac{
+    color: rgb(237, 68, 46);
+    background-color: rgba(237, 68, 46, 0.152);
+    padding: .5rem;
+}
+
+#memo{
+    color: hsl(39, 100%, 56%);
+    background-color: hsl(39, 100%, 56%, 0.152);
+    padding: .5rem;
+}
+
+#verb{
+    color: rgb(41, 225, 84);
+    background-color: rgba(41, 225, 84, 0.152);
+    padding: .5rem;
+}
+#visu{
+    color: blue;
+    background-color: rgba(0, 0, 255, 0.152);
+    padding: .5rem;
+}
+
+#ulist{
+    position: relative;
+    right: -2rem;
+    padding: 2rem;
+    list-style: none;
+    width: 50%;
+    float: right;
+    position: relative;
+    top: -600px;
+    right: -80px;
+}
+#reac, #memo, #visu, #verb{
+
+    padding: 12px;
+    margin: 1rem;
+    border-radius: 5px;
+}
+
+.signn{
+    position: relative;
+    top: 4px;
+}
+
+#lastPara{
+    padding: 2rem;
+}
+
+.listPara{
+    float: right;
+    font-size: 1rem;
+    position: relative;
+    top: -13px;
+    color: hsl(224, 30%, 27%);
+    
+}
+
+.listPara2{
+    color: hsla(224, 30%, 27%, 0.556);
+    font-size: .9rem;
+    
+   
+}
+
+.Dbutton{
+    color: white;
+    background-color: hsl(224, 30%, 27%);
+    padding: 12px;
+    margin: 1rem;
+    border-radius: 25px;
+    width: 95.5%;
+}
